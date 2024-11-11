@@ -20,11 +20,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create a Virtual Machine in Azure
+- Install Web Platform Installer
+- Install osTicket v.1.15.8
+- Install HeidiSQL
+  
 
 <h2>Installation Steps</h2>
 
